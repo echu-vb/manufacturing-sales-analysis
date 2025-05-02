@@ -1,3 +1,4 @@
+**About*
 Conducted sales analysis on a manufacuring company using sample data found on the following [link](https://www.kaggle.com/datasets/kyanyoga/sample-sales-data/data).
 Additional queries can be found on `sales_sample.sql`.
 
