@@ -1,4 +1,4 @@
-# Manufacturing Sales Analysis
+# Manufacturing Sales Analysis (SQL/Excel)
 
 Conducted sales analysis on a manufacuring company using sample data found on the following [link](https://www.kaggle.com/datasets/kyanyoga/sample-sales-data/data).
 
