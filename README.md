@@ -1,5 +1,5 @@
-Conducted sales analysis on a manufacuring company using sample data found on the following [link](https://www.kaggle.com/datasets/kyanyoga/sample-sales-data/data)
-
+Conducted sales analysis on a manufacuring company using sample data found on the following [link](https://www.kaggle.com/datasets/kyanyoga/sample-sales-data/data).
+Additional queries can be found on `sales_sample.sql`.
 
 ## Schema
 ![image](https://github.com/echu-vb/manufacturing-sales-analysis/blob/1c69a33490eae7fa4175bad8298d674b2cd32da6/schema.png)
