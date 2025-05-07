@@ -2,8 +2,10 @@
 
 Conducted sales analysis on a manufacuring company using sample data found on the following [link](https://www.kaggle.com/datasets/kyanyoga/sample-sales-data/data).
 
-Additional queries can be found on `sales_sample.sql`.
 
+To view a Tableau dashboard created using the data, click [here](https://public.tableau.com/app/profile/ethan.chu2920/viz/ManufactoringSalesDashboard/Dashboard1)
+
+Additional queries can be found on `sales_sample.sql`.
 ***
 
 ## Schema
