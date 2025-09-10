@@ -143,3 +143,10 @@ FROM COUNTRY_SALES;
 | 19	| Ireland	| 404,295.01 |
 
 When querying for sales by territory, EMEA records the highest amount of sales but when querying for sales of country, we can see that the company actuall gets the most amount of sales from the US.
+
+## Conclusion
+As seen from the dashboard, the company's sales suddenly dropped by about 70% from 2004 to 2005. We can then see this visually when comparing both years side by side.
+
+![image](https://github.com/echu-vb/manufacturing-sales-analysis/blob/94c31355530587e66ccb2f13812b8ed82a2bc237/salesbyyear.png)
+
+Now we know that it wasn't a specific product line that declined in 2005 but sales in general simply declined. We can attribute this to a number of reasons but if we consider the fact that prices did not change from year to year, the company was losing due to competition having better prices. If the company wanted to compete and reverse this sudden decline, changes would have to be made to pricing on all of its products to compete.
