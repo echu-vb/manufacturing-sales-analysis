@@ -142,7 +142,7 @@ FROM COUNTRY_SALES;
 | 18	| Philippines	| 658,110.11 |
 | 19	| Ireland	| 404,295.01 |
 
-When querying for sales by territory, EMEA records the highest amount of sales but when querying for sales of country, we can see that the company actuall gets the most amount of sales from the US.
+When querying for sales by territory, EMEA records the highest amount of sales but when querying for sales of country, we can see that the company actually gets the most amount of sales from the US.
 
 
 Now we know that it wasn't a specific product line that declined in 2005 but sales in general simply declined. We can attribute this to a number of reasons but if we consider the fact that prices did not change from year to year, the company was losing due to competition having better prices. If the company wanted to compete and reverse this sudden decline, changes would have to be made to pricing on all of its products to compete.
